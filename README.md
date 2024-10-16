@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a Developer & Designer, from India</p>
+<p align="left">I'm a Developer & Designer, from India.</p>
 
 ###
 
@@ -115,13 +115,13 @@ More about me: [Clicky Click!](https://thegr8arin.tech/)
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/jakub_zitnik/" target="_blank">
+  <a href="https://www.instagram.com/dumb_frfr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="mailto:email@jzitnik.dev" target="_blank">
+  <a href="mailto:aryanarora270727@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://jzitnik.dev/en" target="_blank">
+  <a href="https://thegr8arin.tech" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Website&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="website link"  />
   </a>
 </div>
