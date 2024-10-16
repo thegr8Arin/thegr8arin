@@ -6,7 +6,7 @@
 
 ###
 
-More about me: [https://thegr8arin.tech/](https://thegr8arin.tech/)
+More about me: [Clicky Click!](https://thegr8arin.tech/)
 
 ###
 
