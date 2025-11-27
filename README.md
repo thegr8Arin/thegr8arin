@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thegr8arin&theme=radical&hide_border=true&background=0D1117&border=6366F1" alt="GitHub Streak" />
+  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=thegr8arin&theme=radical&hide_border=true&background=0D1117&border=6366F1](https://camo.githubusercontent.com/e050dcc2f0ba8717ab9d8a080657a4b7d47579f3c9b6fc621955412308bab195/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d69626c616d6579757672616a267468656d653d7261646963616c26686964655f626f726465723d74727565266261636b67726f756e643d30443131313726626f726465723d363336364631)" alt="GitHub Streak" />
 </div>
 
 <div align="center">
