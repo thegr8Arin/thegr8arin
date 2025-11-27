@@ -70,19 +70,19 @@
 ## 🔗 **Connect With Me**
 
 <div align="center">
-  <a href="https://yuvraj.site" target="_blank">
+  <a href="https://thegr8arin.xyz" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:hi@yuvraj.site">
+  <a href="mailto:hi@peppeble.xyz">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://twitter.com/thegr8arinj" target="_blank">
+  <a href="https://twitter.com/thegr8arin" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://www.linkedin.com/in/yuvraj-soni-0b7a4630a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/thegr8arinj" target="_blank">
+  <a href="https://www.instagram.com/aryonarora" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
@@ -92,7 +92,7 @@
 ## 📄 **Resume & Experience**
 
 <div align="center">
-  <a href="https://files.catbox.moe/ajphid.pdf" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume" />
   </a>
 </div>
@@ -102,16 +102,16 @@
 ## 🎯 **Current Projects**
 
 <div align="center">
-  <h3>🔭 Currently Working On</h3>
-  <a href="https://zentha.in" target="_blank">
-    <img src="https://img.shields.io/badge/Zentha.in-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Zentha.in" />
-  </a>
-  <p><em>Founder & CEO - Building innovative solutions for the future</em></p>
-  
   <a href="https://peppeble.xyz" target="_blank">
     <img src="https://img.shields.io/badge/Peppeble-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Peppeble" />
   </a>
-  <p><em>Building the future of decentralized applications</em></p>
+  <p><em>Founder & CEO - Building innovative solutions for the future</em></p>
+
+   <h3>🔭 Currently Working On</h3>
+  <a href="https://zentha.in" target="_blank">
+    <img src="https://img.shields.io/badge/Zentha.in-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Zentha.in" />
+  </a>
+  <p><em>Head Developer - Building the future of decentralized applications</em></p>
 </div>
 
 ---
