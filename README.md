@@ -12,9 +12,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thegr8arin&theme=radical&hide_border=true&background=0D1117&border=6366F1" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thegr8arin&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="Top Languages" />
-</div>
+
 
 ---
 
