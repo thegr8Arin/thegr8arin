@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Greetings+I+am+Aryan+Arora;and+I+Make;Shit+Delightful+Founder;Peppeble+and+a+Developer;Building+the+Future+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Greetings+I+am+Aryan+Arora;and+I+Make+Shit+Delightful+Founder Of Peppeble+and+CTO+At+Care4Poor Foundation" alt="Typing SVG" />
 </div>
 
 <div align="center">
