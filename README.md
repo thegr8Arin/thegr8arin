@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thegr8arin&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="trophy" />
+  <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=thegr8Arin&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="trophy" />
 </div>
 
 <div align="center">
