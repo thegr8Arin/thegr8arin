@@ -58,14 +58,6 @@
 
 ---
 
-## 📊 **GitHub Analytics**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=thegr8arin&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="Wakatime Stats" />
-</div>
-
----
-
 ## 🔗 **Connect With Me**
 
 <div align="center">
@@ -115,44 +107,7 @@
 
 ---
 
-## 🌟 **Fun Facts**
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=thegr8arin&style=flat-square&color=6366F1" alt="Profile Views" />
-</div>
-
-<div align="center">
-  <h3>⚡ Fun Fact</h3>
-  <p><strong>I go insane when I code! 🤯</strong></p>
-  <p><em>Passionate about creating innovative solutions that make a difference</em></p>
-</div>
-
----
-
-## 🚀 **Let's Build Something Amazing Together!**
-
-<div align="center">
-  <h3>🎯 Ready to Collaborate?</h3>
-  <p>Feel free to reach out if you want to collaborate on interesting projects or just want to say hello! 👋</p>
-  
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=thegr8arin&repo=thegr8arin&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="GitHub Stats" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/github-stats?username=thegr8arin&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="GitHub Stats" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/contributions?username=thegr8arin&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="GitHub Contributions" />
-</div>
-
----
-
-<div align="center">
-  <h3>🌟 Thanks for visiting my profile!</h3>
-  <p><em>Keep coding, keep learning, keep growing! 💻✨</em></p>
+  <h3>Thanks for visiting my profile!</h3>
+  <p><em>Keep ideating, keep coding, keep cookin'.</em></p>
 </div>
